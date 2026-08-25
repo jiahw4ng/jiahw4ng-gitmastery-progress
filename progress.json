@@ -293,37 +293,5 @@
       "Great work pushing the PQR branch to your fork!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "glossary-branch-pull",
-    "started_at": 1787660141.559052,
-    "completed_at": 1787660144.949016,
-    "comments": [
-      "The local STU branch is not created.",
-      "The local VWX branch is not created.",
-      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
-      "New commit in the remote DEF branch is not pulled to the local DEF branch."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "glossary-branch-pull",
-    "started_at": 1787661303.61254,
-    "completed_at": 1787661307.173685,
-    "comments": [
-      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
-      "New commit in the remote DEF branch is not pulled to the local DEF branch."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "glossary-branch-pull",
-    "started_at": 1787661338.79672,
-    "completed_at": 1787661342.282291,
-    "comments": [
-      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
-      "New commit in the remote DEF branch is not pulled to the local DEF branch."
-    ],
-    "status": "Incomplete"
   }
 ]
