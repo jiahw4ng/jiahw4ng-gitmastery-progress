@@ -315,5 +315,15 @@
       "New commit in the remote DEF branch is not pulled to the local DEF branch."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787661338.79672,
+    "completed_at": 1787661342.282291,
+    "comments": [
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
   }
 ]
